@@ -9,5 +9,6 @@ I like Web and Mobile development.
 
 ### My Pages
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/hirbod-behnam-155a84206/](https://www.linkedin.com/in/hamed-kamrava/))
+[![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:h.kamrava1@gmail.com)
 
 <a href="https://stackexchange.com/users/1420278"><img src="https://stackexchange.com/users/flair/1420278.png" width="208" height="58" alt="profile for Hamed Kamrava on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hamed Kamrava on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
